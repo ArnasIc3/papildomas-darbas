@@ -1,12 +1,12 @@
 # KAIP VEIKIA PROGRAMA #
 ```
-### 1. Į duomenys.txt failą įdėti norimą tekstą/straipsnį. ###
+1.  <bold> Į duomenys.txt failą įdėti norimą tekstą/straipsnį.
 ```
 ```
-### 2. Paleisti kodą su CMakelists.txt arba kitais būdais kurie kompiliuoja multi-failų kodą. ###
+2. <bold> Paleisti kodą su CMakelists.txt arba kitais būdais kurie kompiliuoja multi-failų kodą.
 ```
 ```
-### 3. 
+3. <bold> 
 ```
 ```
 counter.txt - suskaičiuoti kiek kiekvienas žodis pasikartoja tekste kartų <break>
