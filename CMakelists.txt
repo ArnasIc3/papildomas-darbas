@@ -1,0 +1,19 @@
+cmake_minimum_required(VERSION 3.12)
+project(MyProject)
+
+# Add your source files here
+set(SOURCES
+    main.cpp
+    functions.cpp
+)
+
+# Add your header files here
+set(HEADERS
+    functions.h
+)
+
+# Set the output directory for the built executable
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR})
+
+# Add the executable target
+add_executable(${PROJECT_NAME} ${SOURCES} ${HEADERS})
